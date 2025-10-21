@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\bin\Debug\net8.0\propertiess.exe
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\bin\Debug\net8.0\propertiess.deps.json
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\bin\Debug\net8.0\propertiess.runtimeconfig.json
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\bin\Debug\net8.0\propertiess.dll
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\bin\Debug\net8.0\propertiess.pdb
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\propertiess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\propertiess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\propertiess.AssemblyInfo.cs
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\propertiess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\propertiess.dll
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\refint\propertiess.dll
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\propertiess.pdb
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\propertiess.genruntimeconfig.cache
+C:\Users\HP\Desktop\OOP\propertiess\propertiess\obj\Debug\net8.0\ref\propertiess.dll
